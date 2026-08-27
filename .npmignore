@@ -1,0 +1,7 @@
+src/
+test/
+scripts/
+coverage/
+*.config.*
+tsconfig.json
+pnpm-lock.yaml

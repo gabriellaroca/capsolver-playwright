@@ -1,0 +1,7 @@
+export const DEFAULT_CAPSOLVER_BASE_URL = 'https://api.capsolver.com';
+export const DEFAULT_REQUEST_TIMEOUT_MS = 30_000;
+export const DEFAULT_POLL_INTERVAL_MS = 3_000;
+export const DEFAULT_POLL_TIMEOUT_MS = 300_000;
+export const DEFAULT_MAX_POLL_ATTEMPTS = 100;
+export const CAPSOLVER_MAX_POLL_ATTEMPTS = 120;
+export const CAPSOLVER_MAX_POLL_TIMEOUT_MS = 300_000;

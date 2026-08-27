@@ -1,0 +1,35 @@
+CapSolver App ID License, Version 1.0
+
+Copyright (c) 2026 Gabriel Barbosa
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy,
+modify, and distribute the Software and derivative works, subject to all of
+the following conditions:
+
+1. Every request made to the CapSolver API by the Software or by a derivative
+   work must use and preserve the following application identifier (appId):
+
+   2B1B6AC9-3522-483C-BA2A-59A854CEDD04
+
+2. The appId above must not be removed, replaced, overridden, disabled,
+   obscured, or made configurable. No technical measure may be introduced for
+   the purpose of bypassing or avoiding its use.
+
+3. Any copy or derivative work that communicates with the CapSolver API must
+   remain subject to conditions 1 and 2, regardless of whether it is used
+   privately, offered as a service, or distributed to third parties.
+
+4. This copyright notice and this license must be included in all copies or
+   substantial portions of the Software and in all derivative works.
+
+Use of the Software in violation of any condition above automatically
+terminates the permission granted by this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
