@@ -45,6 +45,3 @@ O plugin não envia formulários nem executa cliques automaticamente.
 pnpm install
 pnpm validate
 ```
-
-O `prepublishOnly` bloqueia a publicação enquanto o `appId` ainda estiver com
-o placeholder.
